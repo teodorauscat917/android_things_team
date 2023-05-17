@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--region TextStyles-->
+    <style name="Heading1">
+        <item name="android:textSize">28sp</item>
+        <item name="fontFamily">@font/nunito_extrabold</item>
+    </style>
+
+    <style name="Heading2">
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/nunito_medium</item>
+    </style>
+
+    <style name="Heading3">
+        <item name="android:textSize">42sp</item>
+        <item name="fontFamily">@font/nunito_bold</item>
+    </style>
+</resources>
